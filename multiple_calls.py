@@ -1,8 +1,5 @@
 
 def func_a():
-  print("hello world")
+  print("This is file edited in the new branch")
 
-def func_b():
-  print("This is a second function")
-
-  funca()
+func_a()
